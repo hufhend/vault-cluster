@@ -1,1 +1,4 @@
 *data
+root_token.txt
+unseal_key.txt
+vault-init.json
